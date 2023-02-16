@@ -1,0 +1,15 @@
+C:\Users\Rosepattern\source\repos\Enumeration\bin\Debug\net6.0\Enumeration.exe
+C:\Users\Rosepattern\source\repos\Enumeration\bin\Debug\net6.0\Enumeration.deps.json
+C:\Users\Rosepattern\source\repos\Enumeration\bin\Debug\net6.0\Enumeration.runtimeconfig.json
+C:\Users\Rosepattern\source\repos\Enumeration\bin\Debug\net6.0\Enumeration.dll
+C:\Users\Rosepattern\source\repos\Enumeration\bin\Debug\net6.0\Enumeration.pdb
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.csproj.AssemblyReference.cache
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfoInputs.cache
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfo.cs
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.dll
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\refint\Enumeration.dll
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.pdb
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\Enumeration.genruntimeconfig.cache
+C:\Users\Rosepattern\source\repos\Enumeration\obj\Debug\net6.0\ref\Enumeration.dll
